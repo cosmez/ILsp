@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILsp.Compiler", "ILsp.Compi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILsp.Tests", "ILsp.Tests\ILsp.Tests.csproj", "{C72D98DE-F7BC-4D98-92C6-E5CDA1E7FDF5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{B435BB2E-71C3-4132-B4B8-C66593C60543}"
+	ProjectSection(SolutionItems) = preProject
+		LexicalStructure.md = LexicalStructure.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
